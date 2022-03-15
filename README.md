@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To run this project follow next steps
+
+### 1. Get Google Client ID
+### 2. Create .env file
+### 3. Run `npm start` 
 
 ## Available Scripts
 
